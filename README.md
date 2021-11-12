@@ -1,7 +1,7 @@
 # Industria de Videojuegos
 
 ## What was used? 
-The project was carried out using the Power BI desktop application, one of the top leader in business Intelligence, and published on the web.
+The project was developed using the Power BI desktop application, one of the top leader in business Intelligence, and published on the web.
 
 ### Get Data
 
@@ -10,14 +10,14 @@ _The data used was provided for educational purposes in the Power BI - Data Anal
 
 ### Data Preparation
 
-Modifications were made to the data obtained from the Excel file to be able to use them appropriately using the Power Query editor. 
+Modifications were made to the data obtained from the Excel file, using the Power Query editor, to be able to use them appropriately. 
 
 The modifications were: 
 
 - The column "Ventas global" was eliminated because it generates a duplication in the values.
-- 4 columns were unified to two columns, with the option "Unpivot columns", in order to have all the sales values in one column and the regions in another column.
-- Region names have been replaced for clarity. 
-- The type of field assigned by Power BI to the column "año" was replaced to text to be consistent with the desired purposes.  
+- Four columns were unified to two columns, with the option "Unpivot columns", in order to have all the sales values together in a column and the regions in another column.
+- Original Region names were replaced  for more understandability.  
+- The type of field assigned by Power BI to the column "año" was changed to be consistent with the desired purposes.  
 
 ## Description
 
