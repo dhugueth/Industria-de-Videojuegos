@@ -1,5 +1,7 @@
 # Industria de Videojuegos
 
+To access the report you can click on ["Link to the project"](https://app.powerbi.com/view?r=eyJrIjoiODk5ZWNmNWUtZTFkNy00OTlkLWE2ZGQtODdkMTg0ZDk4YmExIiwidCI6ImJhYjBiNjc5LWJkNWYtNGZlOC1iNTE2LWM2YjhiMzE3Yzc4MiIsImMiOjR9)
+
 ## What was used? 
 The project was developed using the Power BI desktop application, one of the top leader in business Intelligence, and published on the web.
 
@@ -34,7 +36,3 @@ Additionally, it is possible to observe that the genres of action, sports and sh
 Below you can see a preview of the report:
 
 ![Industria_Videojuegos](https://user-images.githubusercontent.com/93662295/141363226-8b28fc08-be03-460f-8ef0-ab933972b836.png)
-
-To access the report you can click on ["Link to the project"](https://app.powerbi.com/view?r=eyJrIjoiODk5ZWNmNWUtZTFkNy00OTlkLWE2ZGQtODdkMTg0ZDk4YmExIiwidCI6ImJhYjBiNjc5LWJkNWYtNGZlOC1iNTE2LWM2YjhiMzE3Yzc4MiIsImMiOjR9)
-
-
